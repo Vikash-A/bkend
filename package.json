@@ -1,7 +1,7 @@
 {
-  "name": "todolistapi",
+  "name": "backend",
   "version": "1.0.0",
-  "description": "RESTful todoListApi",
+  "description": "backend todoListApi",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,19 +9,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/generalgmt/RESTfulAPITutorial.git"
+    "url": "git+https://github.com/Vikash-A/bkend.git"
   },
   "keywords": [
-    "RESTful",
-    "API",
-    "Tutorial"
+    "heroku"
   ],
-  "author": "olatunde garuba",
+  "author": "vikash",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/generalgmt/RESTfulAPITutorial/issues"
+    "url": "https://github.com/Vikash-A/bkend/issues"
   },
-  "homepage": "https://github.com/generalgmt/RESTfulAPITutorial#readme",
+  "homepage": "https://github.com/Vikash-A/bkend/blob/master/README.md",
   "devDependencies": {
     "nodemon": "^1.12.5"
   },
