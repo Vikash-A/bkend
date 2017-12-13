@@ -12,9 +12,6 @@
     "url": "https://github.com/Vikash-A/bkend.git"
   },
 
-  "engines": {
-    "node": "^4.0.0"
-  },
   "keywords": [
     "heroku"
   ],
