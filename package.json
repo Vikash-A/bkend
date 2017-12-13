@@ -1,15 +1,19 @@
 {
   "name": "backend",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "backend todoListApi",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "npm install"
+    "start": "nodemon server.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Vikash-A/bkend.git"
+    "url": "https://github.com/Vikash-A/bkend.git"
+  },
+
+  "engines": {
+    "node": "^4.0.0"
   },
   "keywords": [
     "heroku"
