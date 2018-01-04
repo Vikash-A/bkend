@@ -1,4 +1,4 @@
-## Nodejs in 10 minutes
+## Nodejs with heroku
 
 clone the project
 
